@@ -27,8 +27,7 @@ Is it a nuisance to send huge files to others? File To Link Bot is for you.This 
 ## HOW TO USE THIS BOT
 
 ```
-- You can send any type of files (Video, Image, Audio, Document) to this bot.
-- Bot will send a shorten link of that file to you.
+- You can buy in game currency in one place expect girlfriend without delay.
 ```
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
